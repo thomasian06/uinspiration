@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.21"
+  },
+  "name": "uinspiration",
+  "version": "1.0.0",
+  "description": "Implementation of cool UI ideas from websites/youtube videos!",
+  "main": "index.js",
+  "repository": "https://github.com/thomasian06/uinspiration",
+  "author": "Ian Thomas",
+  "license": "Apache 2.0"
+}
