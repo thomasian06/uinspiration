@@ -1,0 +1,14 @@
+.separator-image {
+    width: 100lvw;
+    object-fit: cover;
+    object-position: center center;
+}
+
+.separator {
+    display: inline-block;
+    position: relative;
+    left: 0%;
+    top: 0%;
+    user-select: none;
+    font-size: 0;
+}
